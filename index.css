@@ -1,0 +1,31 @@
+body {
+    background: #1d75c7;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+
+img.fathersday {
+    max-height: 100%;
+    max-width: 100%;
+    padding: 3em;
+}
+
+.card {
+    background: #1d75c7;
+    border-radius: 4px;
+    height: 80vh;
+    width: 80vw;
+    text-align: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.space {
+    height: 100px;
+}
