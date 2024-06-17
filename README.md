@@ -1,6 +1,7 @@
 # fathersday2024
 ### Father's Day Digital Card
 I wanted to create an free hosted father's day card based off the valentines day card I'd created in the past. 
+View the card [HERE](https://mindfultatiana.github.io/fathersday2024/)
 
 ### Problem: 
 Digitally bridging the distance and making something custom. 
