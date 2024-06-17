@@ -9,7 +9,7 @@ Digitally bridging the distance and making something custom.
 -  I wanted it more custom than the digital card creators.
 
 ### What I learned:
-Sometimes it's better to just get rid of the shadow and use the same color than delete a box entirely.
+Sometimes it's better to just get rid of the shadow and use the same color than delete a box entirely. At first when I tried to deploy to github pages it had an error and wouldn't launch. I couldn't figure out what I'd done wrong and was thinking I would have to find a more complicated way to launch it. I came back and checked a couple hours later and it was live. So sometimes it just takes a while to redeploy itself and you did nothing wrong.
 
 ## Tech Stack
 HTML, CSS, GitHub Pages, Prettier
